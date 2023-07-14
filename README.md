@@ -16,7 +16,6 @@ I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
--->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=darwinikii&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
