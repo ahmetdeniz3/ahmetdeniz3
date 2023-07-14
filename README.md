@@ -19,7 +19,7 @@ I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=darwinikii&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=darwinikii&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetdeniz3&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=darwinikii.darwinikii" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmetdeniz3.ahmetdeniz3" alt="visitors">
 </div>
