@@ -1,9 +1,7 @@
 ### Hi there 👋
-@@ -1,16 +1,28 @@
-### Hi there 👋
 # Hi there 👋
 
-<!--
+
 **ahmetdeniz3/ahmetdeniz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🚀 About Me
 I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
