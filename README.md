@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Hi there 👋
 
 ## 🚀 About Me
 I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
