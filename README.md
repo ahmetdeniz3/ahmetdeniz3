@@ -11,6 +11,7 @@ I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ## 🖥️ Workspace Setup
 ![Ryzen5-5600-h](https://img.shields.io/badge/Ryzen-5_5600h-0071C5?style=for-the-badge&logo=amd&logoColor=white)
 ![gtx-3050](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
