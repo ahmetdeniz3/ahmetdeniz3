@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ## 🚀 About Me
-I am Ahmet Deniz Uysal, a high school student in Turkey 🇹🇷
+I am Ahmet Deniz Uysal, a University student in Turkey 🇹🇷
 ## 🏅 Achievements
 **I will fill here soon**
 ## 🛠️Skills
